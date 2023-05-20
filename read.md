@@ -7,3 +7,4 @@
 * comando git push
 * testando
 * teste 2
+* comando git fetch
